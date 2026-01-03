@@ -1,5 +1,14 @@
 # 🎮 Memory Match DApp - Decentralized Game on Blockchain
 
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-^0.8.0-363636?logo=solidity)
+![Web3](https://img.shields.io/badge/Web3.js-Blockchain-orange)
+![Truffle](https://img.shields.io/badge/Truffle-Smart%20Contracts-brown)
+![Game Logic](https://img.shields.io/badge/Game-Logic-blueviolet)
+![State Management](https://img.shields.io/badge/State-Driven-informational)
+
+
 A full-stack **Decentralized Application (DApp)** built with **React**, **Web3.js**, and **Solidity**. Players match memory cards in a browser-based game, with game state and winner records stored permanently on the **Ethereum blockchain** via smart contracts.
 
 ---
