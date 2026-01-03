@@ -4,6 +4,21 @@ A full-stack **Decentralized Application (DApp)** built with **React**, **Web3.j
 
 ---
 
+## 🧩 TL;DR
+
+- **Interactive memory matching game** - Classic card-flip mechanics with deterministic win conditions
+- **Clean architecture** - Separation of concerns: UI (React) → Game Logic → State (Smart Contract)
+- **Full-stack design** - Frontend + authoritative state management layer
+- **Blockchain-agnostic logic** - Core gameplay logic can be adapted to REST APIs, game servers, or cloud services without changes
+
+**Why blockchain here?** Demonstrates permanent, verifiable game records and winner tracking on Ethereum.
+
+---
+
+> **📄 Architecture Note:** While this project uses blockchain for state persistence, the primary focus is on **game logic design, state management, and modular architecture**. The same structure can be adapted to traditional backend systems (REST APIs, game servers, cloud services) without changing core gameplay logic.
+
+---
+
 ## 🌟 Features
 
 ### 🎯 Core Gameplay
